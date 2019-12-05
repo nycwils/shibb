@@ -31,7 +31,7 @@ app.post("/", function(req, res){
   });
 
   //res.send("Thanks for sending that." + result);
-  res.redirect('http://google.com');
+  res.redirect('https://newclasses.nyu.edu');
   //redirect to real page
 
 
