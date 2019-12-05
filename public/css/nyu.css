@@ -1,0 +1,121 @@
+body{
+  height: 700px;
+      font-family: helvetica;
+      font-size: 16px;
+      color: #7d0505;
+      background: linear-gradient( #57068c 50%, #ffffff 50%);
+      background-repeat: no-repeat;
+}
+
+h1{
+  font-family: helvetica;
+  font-size: 18px;
+  margin-bottom: 2%;
+  color: #57068c;
+  font-weight: bold;
+
+}
+
+hr{
+  width: 300px;
+}
+
+a:link, a:visited{
+text-decoration: none;
+color: #DD1B4D;
+cursor: auto;
+
+}
+p{
+  display: block;
+  font-size: 18px;
+  margin: 0 0 5px 0;
+  font-family: helvetica;
+  color: #999;
+  word-spacing: 4px;
+  line-height: 1.6;
+}
+p.help{
+  font-size: 16px;
+  font-family: helvetica;
+  color: #DD1B4D;
+  font-size: 16px;
+  word-spacing: .5px;
+  position: relative;
+  left: 600px;
+}
+
+label{
+  color: #999;
+  display: inline-flex;
+  padding-bottom: 7px;
+  padding-top: 15px;
+}
+
+.asdf{
+
+  border: solid 1px;
+  height: 100px;
+  width: 100px;
+}
+
+.top-container{
+
+  padding-top: 37px;
+  padding-bottom: 20px;
+  position: relative;
+  left: 600px;
+}
+
+.middle-container{
+
+  border: solid 1px grey;
+   border-radius: 5px;
+  width: 700px;
+  height: 403px;
+  position: relative;
+  left: 600px;
+  background-color: white;
+}
+
+.inputbox{
+  height: 27px;
+  width: 210px;
+
+
+}
+
+.submit_button{
+background-color: white;
+border: none;
+padding: 0;
+margin: 0;
+padding-top: 12px;
+
+
+}
+
+
+
+.submit_img{
+  width: 225px;
+}
+
+.col1{
+
+  width: 250px;
+  height: 300px;
+  float: left;
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-right: 0;
+}
+.col2{
+
+  width: 350px;
+  height: 300px;
+  float: right;
+  padding-top: 120px;
+  padding-right: 50px;
+
+}
