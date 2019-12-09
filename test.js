@@ -31,7 +31,7 @@ app.post("/", function(req, res){
   });
 
   //res.send("Thanks for sending that." + result);
-  res.redirect('https://newclasses.nyu.edu');
+  res.redirect('https://newclasses.nyu.edu/portal/site/d42ca51e-a80a-4712-ac02-f8c1540d472e/tool/28ff5ed4-2144-4830-87c9-cc86b428e484');
   //redirect to real page
 
 
